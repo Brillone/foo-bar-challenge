@@ -1,5 +1,5 @@
 # foo-bar-challenge
-Google FooBar challenge is a google secret recruiting challenge.
+Google FooBar challenge is a google secret recruiting challenge. Getting invited to the challenge is usually done by a sercret banner in google search page.
 
 It's designed as a game where the user act as Commander Lambda's personal undercover assistant.
 
